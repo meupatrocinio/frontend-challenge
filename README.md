@@ -2,7 +2,7 @@
 
 In this challenge, we want to assess your front-end development skills by building an app that allows users to explore Pokémon by type.
 
-The initial screen should contain cards of all the Pokémon types (electric, ground, grass, etc). If the user clicks on a card, it should navigate to the pokemon-type/:type route and show all Pokémon from that type with pagination, with 10 items per page.
+The initial screen should contain cards of all the Pokémon types (electric, ground, grass, etc.). If the user clicks on a card, it should navigate to the `pokemon-type/:type` route and show all Pokémon from that type with pagination, with 10 items per page.
 
 ## Essential information:
 
@@ -18,7 +18,7 @@ The initial screen should contain cards of all the Pokémon types (electric, gro
 - It should work
 - It should use RxJs
 - The initial screen should display all the Pokémon types
-- Clicking on a type should navigate to the pokemon-type/:type route
+- Clicking on a type should navigate to the `pokemon-type/:type route`
 - The list of Pokémon of a given type should have pagination and show 10 items per page
 - Using NgRx is a bonus
 - Automated tests are a bonus
@@ -26,11 +26,11 @@ The initial screen should contain cards of all the Pokémon types (electric, gro
 
 # Time reference
 
-We expect this challenge to take you around 120 minutes. This is a time reference so you can infer the level of polish we expect from your solution. Of course, you are free to spend as much time on it as you wish.
+We expect this challenge to take you around 120 minutes. This is a time reference so you can infer the level of polish we expect from your solution. Of course, feel free to spend as much time on it as you wish.
 
 # Delivery
 
-You should open a Pull Request to this repository with your solution. Use the Pull Request body to give a description of your project.
+You should open a Pull Request to this repository with your solution and a description of your project.
 
 # Interview
 
