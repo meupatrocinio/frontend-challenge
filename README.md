@@ -17,7 +17,7 @@ The initial screen should contain cards of all the Pokémon types (electric, gro
 - It should look good
 - It should work
 - The initial screen should display all the Pokémon types
-- Clicking on a type should navigate to the `pokemon-type/:type route`
+- Clicking on a type should navigate to the `pokemon-type/:type` route
 - The list of Pokémon of a given type should have pagination and show 10 items per page
 - Automated tests are a bonus
 - Any CSS framework can be used
