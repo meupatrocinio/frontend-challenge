@@ -12,17 +12,19 @@ The initial screen should contain cards of all the Pokémon types (electric, gro
 
 # Guidelines
 
-- It should use Angular
+- It should use Angular or React Native (according to the job description)
 - It must contain instructions on how to run the code
 - It should look good
 - It should work
-- It should use RxJs
 - The initial screen should display all the Pokémon types
 - Clicking on a type should navigate to the `pokemon-type/:type route`
 - The list of Pokémon of a given type should have pagination and show 10 items per page
-- Using NgRx is a bonus
 - Automated tests are a bonus
 - Any CSS framework can be used
+
+__*If you're developing with Angular:*__
+- It should use RxJs
+- Using NgRx is a bonus
 
 # Time reference
 
@@ -30,7 +32,7 @@ We expect this challenge to take you around 120 minutes. This is a time referenc
 
 # Delivery
 
-You should open a Pull Request to this repository with your solution and a description of your project.
+You should open a public git repository for us to clone your project and review the code.
 
 # Interview
 
