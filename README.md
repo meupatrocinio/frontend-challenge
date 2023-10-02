@@ -2,7 +2,7 @@
 
 In this challenge, we want to assess your front-end development skills by building an app that allows users to explore Pokémon by type.
 
-The initial screen should contain cards of all the Pokémon types (electric, ground, grass, etc.). If the user clicks on a card, it should navigate to the `pokemon-type/:type` route and show all Pokémon from that type with pagination, with 10 items per page.
+The initial screen should contain cards of all the Pokémon types (electric, ground, grass, etc.). If the user clicks on a card, it should navigate to the `pokemon-type/:type` route and show all Pokémon from that type, 10 items per page.
 
 ## Essential information:
 
